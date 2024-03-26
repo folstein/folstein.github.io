@@ -31,6 +31,7 @@ import {
   cacheFile,
   cwd,
 } from "./constants.js"
+import { spawn } from "cross-spawn"
 
 /**
  * Handles `npx quartz create`
@@ -457,7 +458,7 @@ export async function handleUpdate(argv) {
 
   await popContentFolder(contentFolder)
   console.log("Ensuring dependencies are up to date")
-  const res = spawnSync("npm", ["i"], { stdio: "inherit" })
+  const res = spawn.sync("npm", ["i"], { stdio: "inherit" })
   if (res.status === 0) {
     console.log(chalk.green("Done!"))
   } else {
