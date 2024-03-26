@@ -5,6 +5,14 @@ tags:
 ---
 Folstein is currently a blank Quartz installation.
 
-I'm working on it.
+I'm working on it. 
+
+```
+int main()
+{
+	printf("Hello World!");
+	return 0;
+}
+```
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
