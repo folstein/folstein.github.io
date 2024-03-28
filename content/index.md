@@ -5,8 +5,6 @@ tags:
 ---
 Folstein is currently a blank Quartz installation.
 
-I'm working on it. 
-
 ```
 int main()
 {
