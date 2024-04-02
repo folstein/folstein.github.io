@@ -5,7 +5,6 @@ tags:
 ---
 Folstein is currently a blank Quartz installation.
 
-[[Quotes]]
-
+[Quote]
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
