@@ -1,7 +1,7 @@
 ---
-title: Welcome to Folstein
+title: Welcome to FallenStone
 ---
-Folstein is currently a not so blank Quartz installation.
+FallenStone (folstein.org) is currently a not so blank Quartz installation.
 
 [[Quotes]]
 
