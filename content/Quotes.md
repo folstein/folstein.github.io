@@ -1,7 +1,7 @@
 ---
 title: Quotes
 ---
-> [!NOTE] Israeli Prime Minister Menachem Begin responding to a threat from Senator Joe Biden to cut off aid to Israel
+> [!NOTE] Israeli Prime Minister Menachem Begin responding to a threat from Senator Joe Biden to cut off aid to Israel, June 22, 1982
 > Don’t threaten us with cutting off your aid. It will not work. I am not a Jew with trembling knees. I am a proud Jew with 3,700 years of civilized history. Nobody came to our aid when we were dying in the gas chambers and ovens. Nobody came to our aid when we were being evicted from our homes and lands. We will stand by our principles. If needed, we will die for them again, with or without your aid.
 
 > [!NOTE] Milan Kundera, [Testaments Betrayed: An Essay in Nine Parts](https://www.goodreads.com/book/show/44382.Testaments_Betrayed)
